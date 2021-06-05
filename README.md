@@ -2,7 +2,11 @@
 hey I am esha 
 
 
-i will have my porfolio tomorrow.
+i will have my porfolio tomorrow. 
+once i learnt html and CSS from tanay pratap
+
+for now, i known:
+
 1. javascript
 1. nodejs
 1. repel.it
